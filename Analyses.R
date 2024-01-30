@@ -182,15 +182,6 @@ hist(sample_sums(SB), main="Histogram: Read Counts", xlab="Total Reads", las=1, 
 ## total number of sequences per sample, sorted in order
 sort(sample_sums(SB))
 19084/338
-# = 56.46154
-19084/864
-# = 22.08796
-19084/338
-# > 10-fold increase in difference between highest and lowest sample sequences
-#Do I need to rarefy/normalize data before looking at diversity estimates? Here is some info. Not normalizing for now.
-#https://www.researchgate.net/post/Should_I_rarefy_the_microbiome_count_data_before_calculating_alpha_diversity
-#Info on SRS normalization: https://www.researchgate.net/publication/343392051_Improved_normalization_of_species_count_data_in_ecology_by_scaling_with_ranked_subsampling_SRS_Application_to_microbial_communities
-#In /PacBio_metabarcoding saved an R file that has the script information for running SRS
 
 top15ph <- sort(tapply(taxa_sums(SB), tax_table(SB)[, "Phylum"],sum), TRUE)[1:15]
 top15g <- sort(tapply(taxa_sums(SB), tax_table(SB)[, "Genus"], sum), TRUE)[1:15]
