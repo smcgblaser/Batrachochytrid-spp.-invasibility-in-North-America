@@ -1,0 +1,145 @@
+File_name,Count,Day,Fluor_type,Lower_threshold,Well_no,Soil_initials,Soil_type,Sterilization_status,Inoc_type
+Bsal_D14_A1_dead,31,14,Red,10,A1,B,Broth,Non-autoclaved,10^3
+Bsal_D14_A1_live,12,14,Green,10,A1,B,Broth,Non-autoclaved,10^3
+Bsal_D14_A2_dead,16.5,14,Red,10,A2,B,Broth,Non-autoclaved,10^3
+Bsal_D14_A2_live,2001,14,Green,10,A2,B,Broth,Non-autoclaved,10^3
+Bsal_D14_A3_dead,0,14,Red,10,A3,B,Broth,Non-autoclaved,10^3
+Bsal_D14_A3_live,53,14,Green,10,A3,B,Broth,Non-autoclaved,10^3
+Bsal_D14_A4_dead,0,14,Red,10,A4,B,Broth,Non-autoclaved,10^4
+Bsal_D14_A4_live,194.5,14,Green,10,A4,B,Broth,Non-autoclaved,10^4
+Bsal_D14_A5_dead,19,14,Red,10,A5,B,Broth,Non-autoclaved,10^4
+Bsal_D14_A5_live,1109,14,Green,10,A5,B,Broth,Non-autoclaved,10^4
+Bsal_D14_A6_dead,0,14,Red,10,A6,B,Broth,Non-autoclaved,10^4
+Bsal_D14_A6_live,111.5,14,Green,10,A6,B,Broth,Non-autoclaved,10^4
+Bsal_D14_A7_dead,116.5,14,Red,10,A7,B,Broth,Autoclaved,10^3
+Bsal_D14_A7_live,62.5,14,Green,10,A7,B,Broth,Autoclaved,10^3
+Bsal_D14_A8_dead,163,14,Red,10,A8,B,Broth,Autoclaved,10^3
+Bsal_D14_A8_live,43,14,Green,10,A8,B,Broth,Autoclaved,10^3
+Bsal_D14_A9_dead,16.5,14,Red,10,A9,B,Broth,Autoclaved,10^3
+Bsal_D14_A9_live,52,14,Green,10,A9,B,Broth,Autoclaved,10^3
+Bsal_D14_A10_dead,2,14,Red,10,A10,B,Broth,Autoclaved,10^4
+Bsal_D14_A10_live,91.5,14,Green,10,A10,B,Broth,Autoclaved,10^4
+Bsal_D14_A11_dead,8.5,14,Red,10,A11,B,Broth,Autoclaved,10^4
+Bsal_D14_A11_live,213,14,Green,10,A11,B,Broth,Autoclaved,10^4
+Bsal_D14_A12_dead,2,14,Red,10,A12,B,Broth,Autoclaved,10^4
+Bsal_D14_A12_live,45,14,Green,10,A12,B,Broth,Autoclaved,10^4
+Bsal_D14_B1_dead,11.5,14,Red,10,B1,FD,Fontana Dam,Non-autoclaved,10^3
+Bsal_D14_B1_live,1606.5,14,Green,10,B1,FD,Fontana Dam,Non-autoclaved,10^3
+Bsal_D14_B2_dead,98.5,14,Red,10,B2,FD,Fontana Dam,Non-autoclaved,10^3
+Bsal_D14_B2_live,1677.5,14,Green,10,B2,FD,Fontana Dam,Non-autoclaved,10^3
+Bsal_D14_B3_dead,35,14,Red,10,B2,FD,Fontana Dam,Non-autoclaved,10^3
+Bsal_D14_B3_live,1288,14,Green,10,B3,FD,Fontana Dam,Non-autoclaved,10^3
+Bsal_D14_B4_dead,8.5,14,Red,10,B4,FD,Fontana Dam,Non-autoclaved,10^4
+Bsal_D14_B4_live,459.5,14,Green,10,B4,FD,Fontana Dam,Non-autoclaved,10^4
+Bsal_D14_B5_dead,51,14,Red,10,B5,FD,Fontana Dam,Non-autoclaved,10^4
+Bsal_D14_B5_live,970,14,Green,10,B5,FD,Fontana Dam,Non-autoclaved,10^4
+Bsal_D14_B6_dead,491,14,Red,10,B6,FD,Fontana Dam,Non-autoclaved,10^4
+Bsal_D14_B6_live,1116,14,Green,10,B6,FD,Fontana Dam,Non-autoclaved,10^4
+Bsal_D14_B7_dead,4.5,14,Red,10,B7,FD,Fontana Dam,Autoclaved,10^3
+Bsal_D14_B7_live,23.5,14,Green,10,B7,FD,Fontana Dam,Autoclaved,10^3
+Bsal_D14_B8_dead,0,14,Red,10,B8,FD,Fontana Dam,Autoclaved,10^3
+Bsal_D14_B8_live,21,14,Green,10,B8,FD,Fontana Dam,Autoclaved,10^3
+Bsal_D14_B9_dead,18.5,14,Red,10,B9,FD,Fontana Dam,Autoclaved,10^3
+Bsal_D14_B9_live,1007.5,14,Green,10,B9,FD,Fontana Dam,Autoclaved,10^3
+Bsal_D14_B10_dead,364.5,14,Red,10,B10,FD,Fontana Dam,Autoclaved,10^4
+Bsal_D14_B10_live,173.5,14,Green,10,B10,FD,Fontana Dam,Autoclaved,10^4
+Bsal_D14_B11_dead,14,14,Red,10,B11,FD,Fontana Dam,Autoclaved,10^4
+Bsal_D14_B11_live,38,14,Green,10,B11,FD,Fontana Dam,Autoclaved,10^4
+Bsal_D14_B12_dead,27,14,Red,10,B12,FD,Fontana Dam,Autoclaved,10^4
+Bsal_D14_B12_live,71,14,Green,10,B12,FD,Fontana Dam,Autoclaved,10^4
+Bsal_D14_C1_dead,4,14,Red,10,C1,NG,Newfound Gap,Non-autoclaved,10^3
+Bsal_D14_C1_live,102,14,Green,10,C1,NG,Newfound Gap,Non-autoclaved,10^3
+Bsal_D14_C2_dead,7.5,14,Red,10,C2,NG,Newfound Gap,Non-autoclaved,10^3
+Bsal_D14_C2_live,642,14,Green,10,C2,NG,Newfound Gap,Non-autoclaved,10^3
+Bsal_D14_C3_dead,19,14,Red,10,C3,NG,Newfound Gap,Non-autoclaved,10^3
+Bsal_D14_C3_live,579,14,Green,10,C3,NG,Newfound Gap,Non-autoclaved,10^3
+Bsal_D14_C4_dead,134,14,Red,10,C4,NG,Newfound Gap,Non-autoclaved,10^4
+Bsal_D14_C4_live,1537.5,14,Green,10,C4,NG,Newfound Gap,Non-autoclaved,10^4
+Bsal_D14_C5_dead,8,14,Red,10,C5,NG,Newfound Gap,Non-autoclaved,10^4
+Bsal_D14_C5_live,122,14,Green,10,C5,NG,Newfound Gap,Non-autoclaved,10^4
+Bsal_D14_C6_dead,6.5,14,Red,10,C6,NG,Newfound Gap,Non-autoclaved,10^4
+Bsal_D14_C6_live,96.5,14,Green,10,C6,NG,Newfound Gap,Non-autoclaved,10^4
+Bsal_D14_C7_dead,45,14,Red,10,C7,NG,Newfound Gap,Autoclaved,10^3
+Bsal_D14_C7_live,16.5,14,Green,10,C7,NG,Newfound Gap,Autoclaved,10^3
+Bsal_D14_C8_dead,0,14,Red,10,C8,NG,Newfound Gap,Autoclaved,10^3
+Bsal_D14_C8_live,15.5,14,Green,10,C8,NG,Newfound Gap,Autoclaved,10^3
+Bsal_D14_C9_dead,3.5,14,Red,10,C9,NG,Newfound Gap,Autoclaved,10^3
+Bsal_D14_C9_live,54.5,14,Green,10,C9,NG,Newfound Gap,Autoclaved,10^3
+Bsal_D14_C10_dead,0.5,14,Red,10,C10,NG,Newfound Gap,Autoclaved,10^4
+Bsal_D14_C10_live,105.5,14,Green,10,C10,NG,Newfound Gap,Autoclaved,10^4
+Bsal_D14_C11_dead,27.5,14,Red,10,C11,NG,Newfound Gap,Autoclaved,10^4
+Bsal_D14_C11_live,8.5,14,Green,10,C11,NG,Newfound Gap,Autoclaved,10^4
+Bsal_D14_C12_dead,1,14,Red,10,C12,NG,Newfound Gap,Autoclaved,10^4
+Bsal_D14_C12_live,39,14,Green,10,C12,NG,Newfound Gap,Autoclaved,10^4
+Bsal_D14_D1_dead,106,14,Red,10,D1,CD,Clingman's Dome,Non-autoclaved,10^3
+Bsal_D14_D1_live,832,14,Green,10,D1,CD,Clingman's Dome,Non-autoclaved,10^3
+Bsal_D14_D2_dead,84,14,Red,10,D2,CD,Clingman's Dome,Non-autoclaved,10^3
+Bsal_D14_D2_live,528.5,14,Green,10,D2,CD,Clingman's Dome,Non-autoclaved,10^3
+Bsal_D14_D3_dead,168.5,14,Red,10,D3,CD,Clingman's Dome,Non-autoclaved,10^3
+Bsal_D14_D3_live,954.5,14,Green,10,D3,CD,Clingman's Dome,Non-autoclaved,10^3
+Bsal_D14_D4_dead,359,14,Red,10,D4,CD,Clingman's Dome,Non-autoclaved,10^4
+Bsal_D14_D4_live,1362,14,Green,10,D4,CD,Clingman's Dome,Non-autoclaved,10^4
+Bsal_D14_D5_dead,54.5,14,Red,10,D5,CD,Clingman's Dome,Non-autoclaved,10^4
+Bsal_D14_D5_live,743.5,14,Green,10,D5,CD,Clingman's Dome,Non-autoclaved,10^4
+Bsal_D14_D6_dead,73,14,Red,10,D6,CD,Clingman's Dome,Non-autoclaved,10^4
+Bsal_D14_D6_live,1356.5,14,Green,10,D6,CD,Clingman's Dome,Non-autoclaved,10^4
+Bsal_D14_D7_dead,229.5,14,Red,10,D7,CD,Clingman's Dome,Autoclaved,10^3
+Bsal_D14_D7_live,439,14,Green,10,D7,CD,Clingman's Dome,Autoclaved,10^3
+Bsal_D14_D8_dead,226.5,14,Red,10,D8,CD,Clingman's Dome,Autoclaved,10^3
+Bsal_D14_D8_live,213.5,14,Green,10,D8,CD,Clingman's Dome,Autoclaved,10^3
+Bsal_D14_D9_dead,103,14,Red,10,D9,CD,Clingman's Dome,Autoclaved,10^3
+Bsal_D14_D9_live,91.5,14,Green,10,D9,CD,Clingman's Dome,Autoclaved,10^3
+Bsal_D14_D10_dead,180.5,14,Red,10,D10,CD,Clingman's Dome,Autoclaved,10^4
+Bsal_D14_D10_live,94,14,Green,10,D10,CD,Clingman's Dome,Autoclaved,10^4
+Bsal_D14_D11_dead,188,14,Red,10,D11,CD,Clingman's Dome,Autoclaved,10^4
+Bsal_D14_D11_live,171.5,14,Green,10,D11,CD,Clingman's Dome,Autoclaved,10^4
+Bsal_D14_D12_dead,54.5,14,Red,10,D12,CD,Clingman's Dome,Autoclaved,10^4
+Bsal_D14_D12_live,124,14,Green,10,D12,CD,Clingman's Dome,Autoclaved,10^4
+Bsal_D14_E1_dead,393,14,Red,10,E1,MC,Mt Cammerer,Non-autoclaved,10^3
+Bsal_D14_E1_live,652.5,14,Green,10,E1,MC,Mt Cammerer,Non-autoclaved,10^3
+Bsal_D14_E2_dead,214,14,Red,10,E2,MC,Mt Cammerer,Non-autoclaved,10^3
+Bsal_D14_E2_live,472,14,Green,10,E2,MC,Mt Cammerer,Non-autoclaved,10^3
+Bsal_D14_E3_dead,300,14,Red,10,E3,MC,Mt Cammerer,Non-autoclaved,10^3
+Bsal_D14_E3_live,1025.5,14,Green,10,E3,MC,Mt Cammerer,Non-autoclaved,10^3
+Bsal_D14_E4_dead,90,14,Red,10,E4,MC,Mt Cammerer,Non-autoclaved,10^4
+Bsal_D14_E4_live,297.5,14,Green,10,E4,MC,Mt Cammerer,Non-autoclaved,10^4
+Bsal_D14_E5_dead,188.5,14,Red,10,E5,MC,Mt Cammerer,Non-autoclaved,10^4
+Bsal_D14_E5_live,368,14,Green,10,E5,MC,Mt Cammerer,Non-autoclaved,10^4
+Bsal_D14_E6_dead,103,14,Red,10,E6,MC,Mt Cammerer,Non-autoclaved,10^4
+Bsal_D14_E6_live,300.5,14,Green,10,E6,MC,Mt Cammerer,Non-autoclaved,10^4
+Bsal_D14_E7_dead,361,14,Red,10,E7,MC,Mt Cammerer,Autoclaved,10^3
+Bsal_D14_E7_live,463.5,14,Green,10,E7,MC,Mt Cammerer,Autoclaved,10^3
+Bsal_D14_E8_dead,57,14,Red,10,E8,MC,Mt Cammerer,Autoclaved,10^3
+Bsal_D14_E8_live,391.5,14,Green,10,E8,MC,Mt Cammerer,Autoclaved,10^3
+Bsal_D14_E9_dead,312,14,Red,10,E9,MC,Mt Cammerer,Autoclaved,10^3
+Bsal_D14_E9_live,220,14,Green,10,E9,MC,Mt Cammerer,Autoclaved,10^3
+Bsal_D14_E10_dead,24,14,Red,10,E10,MC,Mt Cammerer,Autoclaved,10^4
+Bsal_D14_E10_live,199,14,Green,10,E10,MC,Mt Cammerer,Autoclaved,10^4
+Bsal_D14_E11_dead,342.5,14,Red,10,E11,MC,Mt Cammerer,Autoclaved,10^4
+Bsal_D14_E11_live,308,14,Green,10,E11,MC,Mt Cammerer,Autoclaved,10^4
+Bsal_D14_E12_dead,1,14,Red,10,E12,MC,Mt Cammerer,Autoclaved,10^4
+Bsal_D14_E12_live,156,14,Green,10,E12,MC,Mt Cammerer,Autoclaved,10^4
+Bsal_D14_F1_dead,814,14,Red,10,F1,DG,Davenport Gap,Non-autoclaved,10^3
+Bsal_D14_F1_live,1697,14,Green,10,F1,DG,Davenport Gap,Non-autoclaved,10^3
+Bsal_D14_F2_dead,774.5,14,Red,10,F2,DG,Davenport Gap,Non-autoclaved,10^3
+Bsal_D14_F2_live,1926,14,Green,10,F2,DG,Davenport Gap,Non-autoclaved,10^3
+Bsal_D14_F3_dead,314,14,Red,10,F3,DG,Davenport Gap,Non-autoclaved,10^3
+Bsal_D14_F3_live,1938.5,14,Green,10,F3,DG,Davenport Gap,Non-autoclaved,10^3
+Bsal_D14_F4_dead,26.5,14,Red,10,F4,DG,Davenport Gap,Non-autoclaved,10^4
+Bsal_D14_F4_live,1589.5,14,Green,10,F4,DG,Davenport Gap,Non-autoclaved,10^4
+Bsal_D14_F5_dead,144.5,14,Red,10,F5,DG,Davenport Gap,Non-autoclaved,10^4
+Bsal_D14_F5_live,1592.5,14,Green,10,F5,DG,Davenport Gap,Non-autoclaved,10^4
+Bsal_D14_F6_dead,204,14,Red,10,F6,DG,Davenport Gap,Non-autoclaved,10^4
+Bsal_D14_F6_live,1503,14,Green,10,F6,DG,Davenport Gap,Non-autoclaved,10^4
+Bsal_D14_F7_dead,9,14,Red,10,F7,DG,Davenport Gap,Autoclaved,10^3
+Bsal_D14_F7_live,220,14,Green,10,F7,DG,Davenport Gap,Autoclaved,10^3
+Bsal_D14_F8_dead,182,14,Red,10,F8,DG,Davenport Gap,Autoclaved,10^3
+Bsal_D14_F8_live,360,14,Green,10,F8,DG,Davenport Gap,Autoclaved,10^3
+Bsal_D14_F9_dead,35.5,14,Red,10,F9,DG,Davenport Gap,Autoclaved,10^3
+Bsal_D14_F9_live,305.5,14,Green,10,F9,DG,Davenport Gap,Autoclaved,10^3
+Bsal_D14_F10_dead,20,14,Red,10,F10,DG,Davenport Gap,Autoclaved,10^4
+Bsal_D14_F10_live,1116.5,14,Green,10,F10,DG,Davenport Gap,Autoclaved,10^4
+Bsal_D14_F11_dead,56,14,Red,10,F11,DG,Davenport Gap,Autoclaved,10^4
+Bsal_D14_F11_live,949.5,14,Green,10,F11,DG,Davenport Gap,Autoclaved,10^4
+Bsal_D14_F12_dead,48.5,14,Red,10,F12,DG,Davenport Gap,Autoclaved,10^4
+Bsal_D14_F12_live,1002.5,14,Green,10,F12,DG,Davenport Gap,Autoclaved,10^4

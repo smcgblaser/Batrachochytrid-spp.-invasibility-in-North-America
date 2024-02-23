@@ -1,0 +1,115 @@
+﻿SampleID,Sample_Name,Day,Pathogen_type,Site,Soil_treatment,No_99.9%_match,No_100%_match,Notes,Names,Taxonomy,
+demultiplex.bc1005--bc1033.hifi_reads.fastq,FD_non-inoc,0,NA,Fontana_Dam,Non_inoc,9,1,,Espadaranaprosoblepon-inhibitory_5,Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas,inhibitory
+demultiplex.bc1005--bc1033.hifi_reads.fastq,FD_non-inoc,0,NA,Fontana_Dam,Non_inoc,,1,,Leiopelmaarcheyi-ns_2,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Serratia,ns
+demultiplex.bc1005--bc1035.hifi_reads.fastq,NG_non-inoc,0,NA,Newfound_Gap,Non_inoc,4,4,all four are same,Atelopuselegans-ns_8,Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Xanthomonadaceae;Stenotrophomonas,ns
+demultiplex.bc1005--bc1044.hifi_reads.fastq,CD_non-inoc,0,NA,Clingmans_Dome,Non_inoc,3,0,,,,
+demultiplex.bc1005--bc1045.hifi_reads.fastq,MC_non-inoc,0,NA,Mount_Cammerer,Non_inoc,2,3,all three are the same,Atelopuselegans-ns_8,Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Xanthomonadaceae;Stenotrophomonas,ns
+demultiplex.bc1005--bc1054.hifi_reads.fastq,DG_non-inoc,0,NA,Davenport_Gap,Non_inoc,6,2,both are the same,Atelopuselegans-ns_8,Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Xanthomonadaceae;Stenotrophomonas,ns
+demultiplex.bc1005--bc1056.hifi_reads.fastq,Bd_D1_NA_FD1.1,1,Bd,Fontana_Dam,Non_autoclaved,9,1,,Atelopuselegans-ns_8,Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Xanthomonadaceae;Stenotrophomonas,ns
+demultiplex.bc1005--bc1057.hifi_reads.fastq,Bsal_D1_NA_FD1.1,1,Bsal,Fontana_Dam,Non_autoclaved,12,0,,,,
+demultiplex.bc1005--bc1060.hifi_reads.fastq,Bd_D1_NA_FD1.2,1,Bd,Fontana_Dam,Non_autoclaved,13,0,,,,
+demultiplex.bc1005--bc1062.hifi_reads.fastq,Bd_D1_NA_MC1.1,1,Bd,Mount_Cammerer,Non_autoclaved,0,0,,,,
+demultiplex.bc1005--bc1065.hifi_reads.fastq,Bd_D14_NA_FD1.3,14,Bd,Fontana_Dam,Non_autoclaved,13,0,,,,
+demultiplex.bc1005--bc1075.hifi_reads.fastq,Bd_D14_NA_MC1.2,14,Bd,Mount_Cammerer,Non_autoclaved,11,9,all the same,Atelopuselegans-ns_8,Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Xanthomonadaceae;Stenotrophomonas,ns
+demultiplex.bc1005--bc1076.hifi_reads.fastq,Bsal_D1_NA_NG1.2,1,Bsal,Newfound_Gap,Non_autoclaved,0,0,,,,
+demultiplex.bc1005--bc1082.hifi_reads.fastq,Bsal_D1_NA_DG1.1,1,Bsal,Davenport_Gap,Non_autoclaved,8,4,four matching seqs,Atelopuselegans-ns_8,Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Xanthomonadaceae;Stenotrophomonas,ns
+demultiplex.bc1005--bc1082.hifi_reads.fastq,Bsal_D1_NA_DG1.1,1,Bsal,Davenport_Gap,Non_autoclaved,,1,one matching seq,Hemidactylumscutatum-inhibitory_9,Bacteria;Firmicutes;Bacilli;Bacillales;Bacillaceae;Bacillus,inhibitory
+demultiplex.bc1005--bc1083.hifi_reads.fastq,Bsal_D7_NA_NG1.3,7,Bsal,Newfound_Gap,Non_autoclaved,1,0,,,,
+demultiplex.bc1005--bc1089.hifi_reads.fastq,Bsal_D7_NA_DG1.2,7,Bsal,Davenport_Gap,Non_autoclaved,4,1,,Atelopuselegans-ns_8,Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Xanthomonadaceae;Stenotrophomonas,ns
+demultiplex.bc1005--bc1096.hifi_reads.fastq,Bsal_D14_NA_CD1.1,14,Bsal,Clingmans_Dome,Non_autoclaved,1,0,,,,
+demultiplex.bc1005--bc1098.hifi_reads.fastq,Bsal_D14_NA_DG1.3,14,Bsal,Davenport_Gap,Non_autoclaved,1,0,,,,
+demultiplex.bc1005--bc1101.hifi_reads.fastq,Bsal_D14_BNA_1.3,14,Bsal,Broth,NA,2,0,,,,
+demultiplex.bc1005--bc1105.hifi_reads.fastq,Bd_D14_DGA_1.1,14,Bd,Davenport_Gap,Autoclaved,0,0,,,,
+demultiplex.bc1005--bc1107.hifi_reads.fastq,DNA_Extract_water_ctrl,0,NA,Water_control,NA,3,0,,,,
+demultiplex.bc1007--bc1044.hifi_reads.fastq,Bsal_D14_CDA_1.3,14,Bsal,Clingmans_Dome,Autoclaved,4,0,,,,
+demultiplex.bc1007--bc1060.hifi_reads.fastq,Bd_D1_NA_FD1.3,1,Bd,Fontana_Dam,Non_autoclaved,5,0,,,,
+demultiplex.bc1007--bc1062.hifi_reads.fastq,Bd_D1_NA_MC1.2,1,Bd,Mount_Cammerer,Non_autoclaved,5,0,,,,
+demultiplex.bc1007--bc1065.hifi_reads.fastq,Bd_D14_NA_NG1.1,14,Bd,Newfound_Gap,Non_autoclaved,0,0,,,,
+demultiplex.bc1007--bc1075.hifi_reads.fastq,Bd_D14_NA_MC1.3,14,Bd,Mount_Cammerer,Non_autoclaved,0,1,one matching seq,Atelopuselegans-ns_8,Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Xanthomonadaceae;Stenotrophomonas,ns
+demultiplex.bc1007--bc1075.hifi_reads.fastq,Bd_D14_NA_MC1.3,14,Bd,Mount_Cammerer,Non_autoclaved,,1,one matching seq,Atelopuslimosus-enhancing_5,Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Bradyrhizobiaceae;Bosea,enhancing
+demultiplex.bc1007--bc1076.hifi_reads.fastq,Bsal_D1_NA_NG1.3,1,Bsal,Newfound_Gap,Non_autoclaved,0,0,,,,
+demultiplex.bc1007--bc1082.hifi_reads.fastq,Bsal_D1_NA_DG1.2,1,Bsal,Davenport_Gap,Non_autoclaved,8,2,both are the same,Atelopuselegans-ns_8,Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Xanthomonadaceae;Stenotrophomonas,ns
+demultiplex.bc1007--bc1083.hifi_reads.fastq,Bsal_D7_NA_CD1.1,7,Bsal,Clingmans_Dome,Non_autoclaved,11,1,,Ranamuscosa-inhibitory_93,Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas,inhibitory
+demultiplex.bc1007--bc1089.hifi_reads.fastq,Bsal_D7_NA_DG1.3,7,Bsal,Davenport_Gap,Non_autoclaved,5,1,,Atelopuselegans-ns_8,Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Xanthomonadaceae;Stenotrophomonas,ns
+demultiplex.bc1007--bc1096.hifi_reads.fastq,Bsal_D14_NA_CD1.2,14,Bsal,Clingmans_Dome,Non_autoclaved,1,0,,,,
+demultiplex.bc1007--bc1101.hifi_reads.fastq,Bsal_D14_BA_1.1,14,Bsal,Broth,NA,0,0,,,,
+demultiplex.bc1007--bc1107.hifi_reads.fastq,PCR_water_ctrl,0,NA,Water_control,NA,1,0,,,,
+demultiplex.bc1008--bc1035.hifi_reads.fastq,Bd_D14_DGA1.3,14,Bd,Davenport_Gap,Autoclaved,21,2,both are the same,Atelopuselegans-ns_8,Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Xanthomonadaceae;Stenotrophomonas,ns
+demultiplex.bc1008--bc1044.hifi_reads.fastq,Bsal_D14_MCA 1.2,14,Bsal,Mount_Cammerer,Autoclaved,17,0,,,,
+demultiplex.bc1008--bc1060.hifi_reads.fastq,Bd_D1_NA_NG1.1,1,Bd,Newfound_Gap,Non_autoclaved,6,2,two matching seqs,Atelopuselegans-ns_8,Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Xanthomonadaceae;Stenotrophomonas,ns
+demultiplex.bc1008--bc1060.hifi_reads.fastq,Bd_D1_NA_NG1.1,1,Bd,Newfound_Gap,Non_autoclaved,,1,one matching seq,Ranamuscosa-inhibitory_97,Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas,inhibitory
+demultiplex.bc1008--bc1062.hifi_reads.fastq,Bd_D1_NA_MC1.3,1,Bd,Mount_Cammerer,Non_autoclaved,2,1,,Atelopuslimosus-enhancing_5,Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Bradyrhizobiaceae;Bosea,enhancing
+demultiplex.bc1008--bc1065.hifi_reads.fastq,Bd_D14_NA_NG1.2,14,Bd,Newfound_Gap,Non_autoclaved,3,2,both are the same,Atelopuselegans-ns_8,Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Xanthomonadaceae;Stenotrophomonas,ns
+demultiplex.bc1008--bc1075.hifi_reads.fastq,Bd_D14_NA_DG1.1,14,Bd,Davenport_Gap,Non_autoclaved,12,0,,,,
+demultiplex.bc1008--bc1076.hifi_reads.fastq,Bsal_D1_NA_CD1.1,1,Bsal,Clingmans_Dome,Non_autoclaved,2,1,,Atelopuselegans-ns_8,Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Xanthomonadaceae;Stenotrophomonas,ns
+demultiplex.bc1008--bc1082.hifi_reads.fastq,Bsal_D1_NA_DG1.3,1,Bsal,Davenport_Gap,Non_autoclaved,11,2,both are the same,Atelopuselegans-ns_8,Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Xanthomonadaceae;Stenotrophomonas,ns
+demultiplex.bc1008--bc1083.hifi_reads.fastq,Bsal_D7_NA_CD1.2,7,Bsal,Clingmans_Dome,Non_autoclaved,0,1,,Atelopuselegans-ns_8,Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Xanthomonadaceae;Stenotrophomonas,ns
+demultiplex.bc1008--bc1089.hifi_reads.fastq,Bsal_D14_NA_FD1.1,14,Bsal,Fontana_Dam,Non_autoclaved,5,1,,Atelopuselegans-ns_8,Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Xanthomonadaceae;Stenotrophomonas,ns
+demultiplex.bc1008--bc1096.hifi_reads.fastq,Bsal_D14_NA_CD1.3,14,Bsal,Clingmans_Dome,Non_autoclaved,3,2,both are the same,Atelopuselegans-ns_8,Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Xanthomonadaceae;Stenotrophomonas,ns
+demultiplex.bc1008--bc1100.hifi_reads.fastq,Bd_D14_BNA_1.3,14,Bd,Broth,NA,13368,26380,all are the same,Atelopuselegans-ns_8,Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Xanthomonadaceae;Stenotrophomonas,ns
+demultiplex.bc1008--bc1101.hifi_reads.fastq,Bsal_D14_A_B1,14,Bsal,Broth,NA,0,0,Failed - couldn't read input (its okay though because it’s a broth sample),,,
+demultiplex.bc1008--bc1105.hifi_reads.fastq,Bsal_D14_FDA_1.1,14,Bsal,Fontana_Dam,Autoclaved,9,1,,Atelopuselegans-ns_8,Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Xanthomonadaceae;Stenotrophomonas,ns
+demultiplex.bc1012--bc1035.hifi_reads.fastq,Bsal_D14_FDA 1.2,14,Bsal,Fontana_Dam,Autoclaved,12,0,,,,
+demultiplex.bc1012--bc1044.hifi_reads.fastq,Bsal_D14_MCA 1.3,14,Bsal,Mount_Cammerer,Autoclaved,7,0,,,,
+demultiplex.bc1012--bc1060.hifi_reads.fastq,Bd_D1_NA_NG1.2,1,Bd,Newfound_Gap,Non_autoclaved,0,0,,,,
+demultiplex.bc1012--bc1062.hifi_reads.fastq,Bd_D1_NA_DG1.1,1,Bd,Davenport_Gap,Non_autoclaved,2,0,,,,
+demultiplex.bc1012--bc1065.hifi_reads.fastq,Bd_D14_NA_NG1.3,14,Bd,Newfound_Gap,Non_autoclaved,0,0,,,,
+demultiplex.bc1012--bc1075.hifi_reads.fastq,Bd_D14_NA_DG1.2,14,Bd,Davenport_Gap,Non_autoclaved,6,0,,,,
+demultiplex.bc1012--bc1076.hifi_reads.fastq,Bsal_D1_NA_CD1.2,1,Bsal,Clingmans_Dome,Non_autoclaved,1,0,,,,
+demultiplex.bc1012--bc1082.hifi_reads.fastq,Bsal_D7_NA_FD1.1,7,Bsal,Fontana_Dam,Non_autoclaved,3,0,,,,
+demultiplex.bc1012--bc1083.hifi_reads.fastq,Bsal_D7_NA_CD1.3,7,Bsal,Clingmans_Dome,Non_autoclaved,0,0,,,,
+demultiplex.bc1012--bc1089.hifi_reads.fastq,Bsal_D14_NA_FD1.2,14,Bsal,Fontana_Dam,Non_autoclaved,1,0,,,,
+demultiplex.bc1012--bc1096.hifi_reads.fastq,Bsal_D14_NA_MC1.1,14,Bsal,Mount_Cammerer,Non_autoclaved,1,0,,,,
+demultiplex.bc1012--bc1101.hifi_reads.fastq,Bsal_D14_BA1.3,14,Bsal,Broth,NA,0,0,,,,
+demultiplex.bc1015--bc1044.hifi_reads.fastq,Bsal_D14_DGA 1.1,14,Bsal,Davenport_Gap,Autoclaved,0,0,,,,
+demultiplex.bc1015--bc1060.hifi_reads.fastq,Bd_D1_NA_NG1.3,1,Bd,Newfound_Gap,Non_autoclaved,1,0,,,,
+demultiplex.bc1015--bc1062.hifi_reads.fastq,Bd_D1_NA_DG1.2,1,Bd,Davenport_Gap,Non_autoclaved,9,1,,Craugastorcrassidigitus-inhibitory_70,Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Comamonadaceae;Delftia,inhibitory
+demultiplex.bc1015--bc1065.hifi_reads.fastq,Bd_D14_NA_CD1.1,14,Bd,Clingmans_Dome,Non_autoclaved,1,0,,,,
+demultiplex.bc1015--bc1075.hifi_reads.fastq,Bd_D14_NA_DG1.3,14,Bd,Davenport_Gap,Non_autoclaved,7,2,both are the same,Atelopuselegans-ns_8,Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Xanthomonadaceae;Stenotrophomonas,ns
+demultiplex.bc1015--bc1076.hifi_reads.fastq,Bsal_D1_NA_CD1.3,1,Bsal,Clingmans_Dome,Non_autoclaved,1,0,,,,
+demultiplex.bc1015--bc1082.hifi_reads.fastq,Bsal_D7_NA_FD1.2,7,Bsal,Fontana_Dam,Non_autoclaved,13,0,,,,
+demultiplex.bc1015--bc1083.hifi_reads.fastq,Bsal_D7_NA_MC1.1,7,Bsal,Mount_Cammerer,Non_autoclaved,4,6,all the same,Atelopuselegans-ns_8,Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Xanthomonadaceae;Stenotrophomonas,ns
+demultiplex.bc1015--bc1089.hifi_reads.fastq,Bsal_D14_NA_FD1.3,14,Bsal,Fontana_Dam,Non_autoclaved,8,0,,,,
+demultiplex.bc1015--bc1096.hifi_reads.fastq,Bsal_D14_NA_MC1.2,14,Bsal,Mount_Cammerer,Non_autoclaved,6,7,all the same,Atelopuselegans-ns_8,Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Xanthomonadaceae;Stenotrophomonas,ns
+demultiplex.bc1015--bc1105.hifi_reads.fastq,Bsal_D14_CDA_1.1,14,Bsal,Clingmans_Dome,Autoclaved,1,0,,,,
+demultiplex.bc1020--bc1035.hifi_reads.fastq,Bsal_D14_NGA1.2,14,Bsal,Newfound_Gap,Autoclaved,14,0,,,,
+demultiplex.bc1020--bc1060.hifi_reads.fastq,Bd_D1_NA_CD1.1,1,Bd,Clingmans_Dome,Non_autoclaved,6,1,,Ranamuscosa-inhibitory_97,Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas,inhibitory
+demultiplex.bc1020--bc1062.hifi_reads.fastq,Bd_D1_NA_DG1.3,1,Bd,Davenport_Gap,Non_autoclaved,7,0,,,,
+demultiplex.bc1020--bc1065.hifi_reads.fastq,Bd_D14_NA_CD1.2,14,Bd,Clingmans_Dome,Non_autoclaved,3,0,,,,
+demultiplex.bc1020--bc1075.hifi_reads.fastq,Bsal_D1_NA_FD1.2,1,Bsal,Fontana_Dam,Non_autoclaved,6,0,,,,
+demultiplex.bc1020--bc1076.hifi_reads.fastq,Bsal_D1_NA_MC1.1,1,Bsal,Mount_Cammerer,Non_autoclaved,9,3,three were the same,Atelopuselegans-ns_8,Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Xanthomonadaceae;Stenotrophomonas,ns
+demultiplex.bc1020--bc1076.hifi_reads.fastq,Bsal_D1_NA_MC1.1,1,Bsal,Mount_Cammerer,Non_autoclaved,,1,one matching seq,Atelopuslimosus-enhancing_5,Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Bradyrhizobiaceae;Bosea,enhancing
+demultiplex.bc1020--bc1082.hifi_reads.fastq,Bsal_D7_NA_FD1.3,7,Bsal,Fontana_Dam,Non_autoclaved,6,0,,,,
+demultiplex.bc1020--bc1083.hifi_reads.fastq,Bsal_D7_NA_MC1.2,7,Bsal,Mount_Cammerer,Non_autoclaved,1,0,,,,
+demultiplex.bc1020--bc1089.hifi_reads.fastq,Bsal_D14_NA_NG1.1,14,Bsal,Newfound_Gap,Non_autoclaved,0,0,,,,
+demultiplex.bc1020--bc1096.hifi_reads.fastq,Bsal_D14_NA_MC1.3,14,Bsal,Mount_Cammerer,Non_autoclaved,3,3,three were the same,Atelopuselegans-ns_8,Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Xanthomonadaceae;Stenotrophomonas,ns
+demultiplex.bc1020--bc1096.hifi_reads.fastq,Bsal_D14_NA_MC1.3,14,Bsal,Mount_Cammerer,Non_autoclaved,,2,two were the same,Atelopuslimosus-enhancing_5,Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Bradyrhizobiaceae;Bosea,enhancing
+demultiplex.bc1020--bc1105.hifi_reads.fastq,Bsal_D14_MCA_1.1,14,Bsal,Mount_Cammerer,Autoclaved,3,0,,,,
+demultiplex.bc1022--bc1035.hifi_reads.fastq,Bsal_D14_NGA1.3,14,Bsal,Newfound_Gap,Autoclaved,21,0,,,,
+demultiplex.bc1022--bc1060.hifi_reads.fastq,Bd_D1_NA_CD1.2,1,Bd,Clingmans_Dome,Non_autoclaved,1,0,,,,
+demultiplex.bc1022--bc1062.hifi_reads.fastq,Bd_D14_NA_FD1.1,14,Bd,Fontana_Dam,Non_autoclaved,12,0,,,,
+demultiplex.bc1022--bc1065.hifi_reads.fastq,Bd_D14_NA_CD1.3,14,Bd,Clingmans_Dome,Non_autoclaved,1,0,,,,
+demultiplex.bc1022--bc1075.hifi_reads.fastq,Bsal_D1_NA_FD1.3,1,Bsal,Fontana_Dam,Non_autoclaved,16,0,,,,
+demultiplex.bc1022--bc1076.hifi_reads.fastq,Bsal_D1_NA_MC1.2,1,Bsal,Mount_Cammerer,Non_autoclaved,62,1,one matching seq,Atelopuselegans-ns_8,Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Xanthomonadaceae;Stenotrophomonas,ns
+demultiplex.bc1022--bc1076.hifi_reads.fastq,Bsal_D1_NA_MC1.2,1,Bsal,Mount_Cammerer,Non_autoclaved,,1,one matching seq,Hyalinobatrachiumcolymbiphyllum-inhibitory_28,Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Comamonadaceae;Delftia,inhibitory
+demultiplex.bc1022--bc1082.hifi_reads.fastq,Bsal_D7_NA_NG1.1,7,Bsal,Newfound_Gap,Non_autoclaved,0,0,,,,
+demultiplex.bc1022--bc1083.hifi_reads.fastq,Bsal_D7_NA_MC1.3,7,Bsal,Mount_Cammerer,Non_autoclaved,2,0,,,,
+demultiplex.bc1022--bc1089.hifi_reads.fastq,Bsal_D14_NA_NG1.2,14,Bsal,Newfound_Gap,Non_autoclaved,0,0,,,,
+demultiplex.bc1022--bc1096.hifi_reads.fastq,Bsal_D14_NA_DG1.1,14,Bsal,Davenport_Gap,Non_autoclaved,6,4,all the same,Atelopuselegans-ns_8,Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Xanthomonadaceae;Stenotrophomonas,ns
+demultiplex.bc1022--bc1100.hifi_reads.fastq,Bsal_D14_BNA_1.1,14,Bsal,Broth,NA,3,0,,,,
+demultiplex.bc1022--bc1105.hifi_reads.fastq,Bsal_D14_DGA_1.3,14,Bsal,Davenport_Gap,Autoclaved,0,0,,,,
+demultiplex.bc1024--bc1035.hifi_reads.fastq,Bsal_D14_CDA1.2,14,Bsal,Clingmans_Dome,Autoclaved,7,0,,,,
+demultiplex.bc1024--bc1060.hifi_reads.fastq,Bd_D1_NA_CD1.3,1,Bd,Clingmans_Dome,Non_autoclaved,1,0,,,,
+demultiplex.bc1024--bc1062.hifi_reads.fastq,Bd_D14_NA_FD1.2,14,Bd,Fontana_Dam,Non_autoclaved,9,0,,,,
+demultiplex.bc1024--bc1065.hifi_reads.fastq,Bd_D14_NA_MC1.1,14,Bd,Mount_Cammerer,Non_autoclaved,6,6,six were the same,Atelopuselegans-ns_8,Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Xanthomonadaceae;Stenotrophomonas,ns
+demultiplex.bc1024--bc1065.hifi_reads.fastq,Bd_D14_NA_MC1.1,14,Bd,Mount_Cammerer,Non_autoclaved,,1,one matching seq,Atelopuslimosus-enhancing_5,Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Bradyrhizobiaceae;Bosea,enhancing
+demultiplex.bc1024--bc1075.hifi_reads.fastq,Bsal_D1_NA_NG1.1,1,Bsal,Newfound_Gap,Non_autoclaved,0,0,,,,
+demultiplex.bc1024--bc1076.hifi_reads.fastq,Bsal_D1_NA_MC1.3,1,Bsal,Mount_Cammerer,Non_autoclaved,4,1,one matching seq,Atelopuselegans-ns_8,Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Xanthomonadaceae;Stenotrophomonas,ns
+demultiplex.bc1024--bc1076.hifi_reads.fastq,Bsal_D1_NA_MC1.3,1,Bsal,Mount_Cammerer,Non_autoclaved,,1,one matching seq,Atelopuslimosus-enhancing_5,Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Bradyrhizobiaceae;Bosea,enhancing
+demultiplex.bc1024--bc1082.hifi_reads.fastq,Bsal_D7_NA_NG1.2,7,Bsal,Newfound_Gap,Non_autoclaved,0,0,,,,
+demultiplex.bc1024--bc1083.hifi_reads.fastq,Bsal_D7_NA_DG1.1,7,Bsal,Davenport_Gap,Non_autoclaved,6,2,both are the same,Atelopuselegans-ns_8,Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Xanthomonadaceae;Stenotrophomonas,ns
+demultiplex.bc1024--bc1089.hifi_reads.fastq,Bsal_D14_NA_NG1.3,14,Bsal,Newfound_Gap,Non_autoclaved,0,0,,,,
+demultiplex.bc1024--bc1096.hifi_reads.fastq,Bsal_D14_NA_DG1.2,14,Bsal,Davenport_Gap,Non_autoclaved,12,2,both are the same,Atelopuselegans-ns_8,Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Xanthomonadaceae;Stenotrophomonas,ns
+demultiplex.bc1024--bc1100.hifi_reads.fastq,Bsal_D14_NA_B1,14,Bsal,Broth,NA,1,3,all the same,Atelopuselegans-ns_8,Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Xanthomonadaceae;Stenotrophomonas,ns
+demultiplex.bc1024--bc1101.hifi_reads.fastq,Bd_D14_MCA_1.3,14,Bd,Mount_Cammerer,Autoclaved,0,0,,,,
+demultiplex.bc1024--bc1105.hifi_reads.fastq,ZymoBIOMICS,0,NA,Mock_community,NA,105,1,one matching seq,Plethodoncinereus-ns_20,Bacteria;Firmicutes;Bacilli;Bacillales;Bacillaceae;Bacillus,ns
